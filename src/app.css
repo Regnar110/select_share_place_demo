@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+html body {
+    font-family: sans-serif;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#map {
+    width: 90%;
+    height: 20rem;
+    border: 1px solid #ccc;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+form {
+    text-align: center;
+    margin: 2rem auto;
+}
